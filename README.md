@@ -20,10 +20,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### SCREENSHOTS
 ## AF1
-!(https://i.imgur.com/SokfOuU.png)
+![alt](https://i.imgur.com/SokfOuU.png)
 
 ## AF2
-!(https://i.imgur.com/qKinM3v.png)
+![alt](https://i.imgur.com/qKinM3v.png)
 
 ## AF3
-!(https://i.imgur.com/krcJKbM.png)
+![alt](https://i.imgur.com/krcJKbM.png)
